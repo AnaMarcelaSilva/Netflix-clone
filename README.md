@@ -4,4 +4,4 @@ Esse projeto foi proposto pela Digital Innovation no decorrer do bootcamp Impuls
 
 
 
-Para desenvolver a tela foi utilizado HTML, CSS e JavaScript com a biblioteca jQuery para desenvolver o carrossel de imagens.
+Para desenvolver a tela foi utilizado HTML, CSS e JavaScript com a biblioteca jQuery para criar o carrossel de imdagens
